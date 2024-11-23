@@ -1,3 +1,3 @@
 ### demo
 
-![](demo.mp4)
+![](demo.gif)
